@@ -1,9 +1,9 @@
-﻿//
+//
 //  AppDelegate.swift
 //  Pizzarea Admin
 //
-//  Created by Ryan Apellanes on 04/02/2018.
-//  Copyright © 2018 CreativityKills Co. All rights reserved.
+//  Created by Tim Hunt on 04/02/2018.
+//  Copyright © 2018 Tim Hunt. All rights reserved.
 //
 
 import UIKit
