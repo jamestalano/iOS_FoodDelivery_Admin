@@ -2,8 +2,8 @@
 //  Order.swift
 //  PizzareaAdmin
 //
-//  Created by Tim Hunt on 04/02/2018.
-//  Copyright © 2018 Tim Hunt. All rights reserved.
+//  Created by James Talano on 04/02/2018.
+//  Copyright © 2018 James Talano. All rights reserved.
 //
 
 import Foundation
